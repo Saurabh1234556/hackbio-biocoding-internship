@@ -1,4 +1,5 @@
 # Hackbio Biocoding Internship - Stage 0 Task
+#https://github.com/Saurabh1234556/hackbio-biocoding-internship
 '''
 [1] Hey! I am saurabh mazumdar 
 [2] The codon assigned to me was UCU (Serine)
