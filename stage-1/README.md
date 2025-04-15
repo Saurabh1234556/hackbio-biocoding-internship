@@ -40,6 +40,7 @@ Key Features:
 Models population growth using the logistic growth equation.
 Includes variations in lag phase and growth rate.
 Useful for ecological and biological modeling.
+
 Example Usage:
 growth_curves = generate_logistic_growth_curves()
 print(growth_curves[0])  # Displays first growth curve data
@@ -56,7 +57,8 @@ Returns:
 A float representing the time required to reach 80% of carrying capacity.
 Key Features:
 Implements a numerical approach using small time steps.
-Models logistic growth over time.
+Models logistic growth over time.  
+
 
 Example Usage:
 time_taken = time_to_80_percent_growth(K=1000, P=10, r=0.12)
@@ -73,10 +75,12 @@ An integer representing the Hamming distance (number of differing characters).
 Raises:
 InvalidValueError if the two strings are not of equal length.
 Key Features:
-Useful for comparing similarity between usernames or genetic sequences.
+Useful for comparing similarity between usernames or genetic sequences.  
+
 Example Usage:
 distance = hamming_distance("abcdef", "abcxef")
-print(distance)  # Output: 1
+print(distance)  # Output: 1  
+
 ## 📌 Team Members
 👤 Saurabh1234556
 👤 @SamuelEA25
